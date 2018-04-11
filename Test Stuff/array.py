@@ -1,3 +1,10 @@
-array =  ["Sunday","Monday"]
+dayArray =  ["Sunday", "Monday", "Tuesday"]
 
-print(array[0])
+print(dayArray[2])
+
+print()
+
+for day in dayArray:
+    print(day)
+
+
